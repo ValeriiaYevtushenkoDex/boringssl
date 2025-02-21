@@ -14,8 +14,8 @@
     "Matt Braithwaite"
   ],
   "source": {
-    "git": "https://github.com/google/boringssl.git",
-    "commit": "b29b21a81b32ec273f118f589f46d56ad3332420"
+    "git": "https://github.com/ValeriiaYevtushenkoDex/boringssl.git",
+    "branch": "dexcom/boringssl-10.0.6"
   },
   "platforms": {
     "ios": "14.1",
